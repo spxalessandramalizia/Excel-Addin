@@ -1,0 +1,4 @@
+c:\Users\aless\OneDrive\Documentos\IME\Dev\obj\Debug\netcoreapp2.2\Dev.csprojAssemblyReference.cache
+c:\Users\aless\OneDrive\Documentos\IME\Dev\obj\Debug\netcoreapp2.2\Dev.csproj.CoreCompileInputs.cache
+c:\Users\aless\OneDrive\Documentos\IME\Dev\obj\Debug\netcoreapp2.2\Dev.AssemblyInfoInputs.cache
+c:\Users\aless\OneDrive\Documentos\IME\Dev\obj\Debug\netcoreapp2.2\Dev.AssemblyInfo.cs
